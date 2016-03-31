@@ -4,7 +4,7 @@ var price = 10;
 var time = new Date().getHours();
 var greeting;
 if (time < 12) {
-	greeting = "Good Moring";
+	greeting = "Good Morning";
 }
 	else if (time < 23){
 		greeting = "Good Afternoon";

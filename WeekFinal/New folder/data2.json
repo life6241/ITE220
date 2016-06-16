@@ -1,0 +1,124 @@
+{
+	"app_name": "Stamford Schedule System",
+	"courses": 
+		{
+			"Monday": 
+				{
+					"eight": [
+						{
+							"course_name": "ITE451",
+							"room": "2504",
+							"lecturer": "A. Atikom"
+						}
+					],
+					"ten": [
+						{
+							"course_name": "ITE448",
+							"room": "2204",
+							"lecturer": "A. Mintra"
+						}
+					],
+					"twelve": [
+						{
+							"course_name": "ITE420",
+							"room": "2204",
+							"lecturer": "A. Apiporn"
+						}
+					],
+					"fourteen": [
+						{
+							"course_name": "ITE442",
+							"room": "1202",
+							"lecturer": "A. Mintra"
+						}
+					],
+					"sixteen": [
+						{
+							"course_name": "ITE221",
+							"room": "2506",
+							"lecturer": "A. Chinthaka"
+						} 					]
+				}
+			,
+			"Tuesday":
+			{
+					"eight1": [
+						{
+							"course_name": "ITE201",
+							"room": "2506",
+							"lecturer": "A. Atikom"
+						}
+					],
+					"ten1": [
+						{
+							"course_name": "ITE101",
+							"room": "2208",
+							"lecturer": "A. Chinthaka"
+						}
+					],
+					"twelve1": [
+						{
+							"course_name": "ITE475",
+							"room": "2502",
+							"lecturer": "A. Manjiri"
+						}
+					],
+					"fourteen1": [
+						{
+							"course_name": "ITE220",
+							"room": "2406",
+							"lecturer": "A. Mintra"
+						}
+					],
+					"sixteen1": [
+						{
+							"course_name": "ITE321",
+							"room": "2504",
+							"lecturer": "A. Karl"
+						}
+					]
+				},
+
+			"Friday":
+			{
+					"eight2": [
+						{
+							"course_name": "ITE120",
+							"room": "2402",
+							"lecturer": "A. Iyke"
+						} 
+					],
+					"ten2": [
+						{
+							"course_name": "ITE231",
+							"room": "2506",
+							"lecturer": "A. Iyke"
+						}
+					],
+					"twelve2": [
+						{
+							"course_name": "ITE390",
+							"room": "2502",
+							"lecturer": "A. Manjiri"
+						}
+					],
+					"fourteen2": [
+						{
+							"course_name": "ITE331",
+							"room": "2502",
+							"lecturer": "A. Karl"
+						}
+					],
+					"sixteen2": [
+						{
+							"course_name": "ITE445",
+							"room": "2504",
+							"lecturer": "A. Apiporn"
+						}
+					]
+				}
+		}
+		
+	
+	
+}
